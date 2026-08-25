@@ -1,14 +1,16 @@
 # Project Title: **HR-Workforce-Analytics-Dashboard**
 
-An interactive **HR Workforce Analytics Dashboard built in Microsoft Power BI**. This project analyses employee demographics, workforce composition, attrition, compensation, job roles, departments, and employee satisfaction to provide actionable HR insights.
+An interactive HR Workforce Analytics Dashboard built in Microsoft Power BI. This project analyses employee demographics, workforce composition, attrition, compensation, job roles, departments, and employee satisfaction to provide actionable HR insights.
 
-The project transforms raw employee data into an interactive business intelligence solution using **Power Query, data modelling, DAX, and Power BI visualisations**.
+The project transforms raw employee data into an interactive business intelligence solution using Power Query, data modelling, DAX, and Power BI visualisations.
 
 The dashboard focuses on key HR metrics including employee headcount, attrition rate, average age, average salary, employee tenure, department performance, job-role distribution, and workforce demographics.
 
 ---
 
 ## Preview
+<img width="913" height="460" alt="Screenshot 2026-08-25 at 11 52 29 AM" src="https://github.com/user-attachments/assets/656d6f1d-3dc1-4535-ad66-1d443a61a7d8" />
+
 
 ### Power BI Dashboard
 
