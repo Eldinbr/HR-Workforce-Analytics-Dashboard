@@ -1,0 +1,23 @@
+Total Employees =
+DISTINCTCOUNT(FactEmployee[Employee ID])
+
+Employees Left =
+CALCULATE([Total Employees], FactEmployee[Attrition] = "Yes")
+
+Active Employees =
+CALCULATE([Total Employees], FactEmployee[Attrition] = "No")
+
+Attrition Rate =
+DIVIDE([Employees Left], [Total Employees], 0)
+
+Average Salary =
+AVERAGE(FactEmployee[Monthly Income])
+
+Average Age =
+AVERAGE(FactEmployee[Age])
+
+Average Tenure =
+AVERAGE(FactEmployee[Years at Company])
+
+Average Job Satisfaction =
+AVERAGE(FactEmployee[Job Satisfaction])
